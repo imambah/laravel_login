@@ -1,0 +1,7 @@
+id;table_name;description;status;created_by;created_at;updated_at
+0;Fakultas;Data Fakultas;Inaktif;0;0000-00-00;0
+0;Jenjang;Jenjang Pendidikan;Aktif;0;0000-00-00;0
+0;Bagian;List Bagian;Aktif;0;0000-00-00;0
+0;admin;admin;Aktif;0;0000-00-00;0
+0;Periode_MONEV;Periode Monitoring & Evaluation;Aktif;0;0000-00-00;0
+0;test;tes;Aktif;admin;17/08/2024;0

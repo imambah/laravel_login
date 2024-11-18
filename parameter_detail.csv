@@ -1,0 +1,35 @@
+id;para_id;table_code;short_desc;long_desc;field01;created_at;updated_at
+0;1;FAI;FAI;Fakultas AI;0;0;0
+0;1;FAPERTA;FAPERTA;Fakultas Pertanian;0;0;0
+0;1;FASILKOM;FASILKOM;Fakultas Ilmu Komputer;0;0;0
+0;1;FEB;FEB;Fakultas Ekonomi Bisnis;0;0;0
+0;1;FH;FH;Fakultas Hukum;0;0;0
+0;1;FIKES;FIKES;Fakultas Kesehatan;0;0;0
+0;1;FISIP;FISIP;Fakultas Sosial dan Ilmu Politik;0;0;0
+0;1;FKIP;FKIP;Fakultas Keguruan dan Ilmu Pendidikan;0;0;0
+0;1;FT;FT;Fakultas Teknik;0;0;0
+0;2;S1;S1;Sarjana;0;0;0
+0;2;S2;S2;Master;0;0;0
+0;2;D3;D3;Diploma 3;0;0;0
+0;2;Profesi;Profesi;Profesi;0;0;0
+0;3;BAKK;BAKK;Biro Akademik; Kemahasiswaan dan Kerja Sama;0;0
+0;3;BPKU;BPKU;Biro Perencanaan; Keuangan dan Umum;0;0
+0;3;LPPM;LPPM;LPPM;4;0;0
+0;3;LPMPP;LPMPP;LPMPP;3;0;0
+0;3;SPI;SPI;SPI;1;0;0
+0;3;UPALP;UPALP;UPA-Laboratorium Terpadu;3;0;0
+0;3;UPAP;UPAP;UPA-Perpustakaan;6;0;0
+0;3;UPATIK;UPATIK;UPA-Teknologi Infromasi Komunikasi;2;0;0
+0;3;FAI;FAI;FAI;7;0;0
+0;3;FEB;FEB;FEB;9;0;0
+0;3;FH;FH;FH;5;0;0
+0;3;FIKES;FIKES;FIKES;7;0;0
+0;3;FASILKOM;FASILKOM;FASILKOM;6;0;0
+0;3;FISIP;FISIP;FISIP;6;0;0
+0;3;FKIP;FKIP;FKIP;8;0;0
+0;3;FAPERTA;FAPERTA;FAPERTA;6;0;0
+0;3;FT;FT;FT;10;0;0
+0;9;Sekarang;2023;Gasal;Sebagai Data Quiz pada pengisian berjalan;0;0
+0;2;tes1;test2;test3;0;0;0
+0;2;D1;D1;Diploma 1;0;0;0
+0;10;tes;test;test;aaa;0;0

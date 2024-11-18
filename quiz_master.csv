@@ -1,0 +1,104 @@
+id;jenis;sequence;kompetensi;pernyataan;variable;status;created_by
+0;EPBM;Q01;Reliability;Rencana perkuliahan disampaikan di awal perkuliahan (meliputi: kontrak perkuliahan, tujuan perkuliahan, materi perkuliahan, dan cara penilaian).;4;Aktif;0
+0;EPBM;Q02;Reliability;Dosen menyampaikan materi kuliah dengan terampil dan sesuai dengan rencana perkuliahan.;4;Aktif;0
+0;EPBM;Q03;Reliability;Dosen memulai dan mengakhiri kuliah tepat waktu sesuai dengan jadwal.;4;Aktif;0
+0;EPBM;Q04;Responsiveness;Dosen memberikan materi ajar yang terbaharukan dan terkait dengan rencana perkuliahan.;4;Aktif;0
+0;EPBM;Q05;Responsiveness;Dosen memberikan contoh atau ilustrasi nyata yang terkait dengan materi perkuliahan.;4;Aktif;0
+0;EPBM;Q06;Responsiveness;Dosen mampu menjawab pertanyaan dan menanggapi pendapat dengan baik.;4;Aktif;0
+0;EPBM;Q07;Assurance;Dosen menggunakan metode pembelajaran yang dapat meningkatkan interaksi antar-mahasiswa dan mahasiswa dengan dosen.;4;Aktif;0
+0;EPBM;Q08;Assurance;Dosen memberikan tanggapan terhadap tugas/hasil midterm/kuis setelah diperiksa dan dinilai.;4;Aktif;0
+0;EPBM;Q09;Assurance;Dosen menyampaikan tata cara penilaian dalam pembelajaran sesuai standar penilaian yang tertuang dalam RPS.;4;Aktif;0
+0;EPBM;Q10;Empathy;Dosen mampu memotivasi mahasiswa untuk aktif dalam proses belajar di kelas dan mendalami materi kuliah.;4;Aktif;0
+0;EPBM;Q11;Empathy;Dosen menunjukkan perhatian terhadap kebutuhan mahasiswa (misal: memberikan kesempatan bertanya, menanggapi pertanyaan dan komentar).;4;Aktif;0
+0;EPBM;Q12;Empathy;Dosen memberikan apresiasi pada mahasiswa yang aktif dalam proses pembelajaran.;4;Aktif;0
+0;EPBM;Q13;Tangible;Dosen menggunakan fasilitas pendukung pembelajaran (power point, alat peraga dan lainnya).;4;Aktif;0
+0;EPBM;Q14;Tangible;Dosen menginformasikan sumber pembelajaran yang bisa diakses seperti jurnal, artikel, buku cetak maupun non-cetak.;4;Aktif;0
+0;EPBM;Q15;Tangible;Selama perkuliahan terdapat tugas pemecahaan masalah/projek yang diberikan dosen kepada mahasiswa.;4;Aktif;0
+0;EPBM;Q16;Suggest;Beri saran Saudara untuk peningkatan mutu EPBM di masa mendatang;Text;Aktif;0
+0;EMLA;Q01;Reliability ;Dosen melaksanakan perkuliahan meliputi penyiapan perangkat pembelajaran, penguasaan materi, metode, penggunaan media dan evaluasi.;4;Aktif;0
+0;EMLA;Q02;Reliability ;Tenaga kependidikan memberikan pelayanan administrasi dan informasi.;4;Aktif;0
+0;EMLA;Q03;Reliability ;Pengelola Prodi menyediakan fasilitas yang menunjang layanan akademik/non-akademik;4;Aktif;0
+0;EMLA;Q04;Responsiveness ;Dosen menanggapi permasalahan akademik mahasiswa.;4;Aktif;0
+0;EMLA;Q05;Responsiveness ;Tenaga kependidikan memperlancar kebutuhan akademik/non-akademik.;4;Aktif;0
+0;EMLA;Q06;Responsiveness ;Pengelola Prodi mengatur terlaksananya layanan akademik/non-akademik.;4;Aktif;0
+0;EMLA;Q07;Assurance ;Dosen menyelesaikan perkuliahan sesuai jumlah pertemuan yang telah ditetapkan.;4;Aktif;0
+0;EMLA;Q08;Assurance ;Tenaga kependidikan memberikan pelayanan secara tepat waktu dan penuh tanggung jawab.;4;Aktif;0
+0;EMLA;Q09;Assurance ;Pengelola Prodi memberikan solusi atas permasalahan akademik/non-akademik.;4;Aktif;0
+0;EMLA;Q10;Empathy;Dosen melakukan bimbingan akademik/perwalian kepada mahasiswa.;4;Aktif;0
+0;EMLA;Q11;Empathy;Tenaga kependidikan memberikan pelayanan dengan menerapkan senyum salam sapa.;4;Aktif;0
+0;EMLA;Q12;Empathy;Pengelola Prodi mendampingi mahasiswa dalam menyelesaikan permasalahan akademik/non-akademik.;4;Aktif;0
+0;EMLA;Q13;Tangible;Ketersediaan sarana dan prasarana pembelajaran.;4;Aktif;0
+0;EMLA;Q14;Tangible;Kemudahan dalam memperoleh informasi akademik/non-akademik.;4;Aktif;0
+0;EMLA;Q15;Tangible;Kualitas sarana dan prasarana pendukung pembelajaran.;4;Aktif;0
+0;EMLA;Q16;Suggest;Beri saran Saudara untuk peningkatan mutu Layanan Akademik di masa mendatang;Text;Aktif;0
+0;EDLM;Q01;Reliability ;Ketersediaan fasilitas kampus yang memadai untuk menjalankan tugas pokok dan fungsi.;4;Aktif;0
+0;EDLM;Q02;Reliability ;Ketersediaan fasilitas kerja, ruang kuliah yang nyaman dan memadai untuk menunjang tridarma.;4;Aktif;0
+0;EDLM;Q03;Reliability ;Fasilitas penelitian dan laboratorium yang memadai untuk menunjang tridarma.;4;Aktif;0
+0;EDLM;Q04;Reliability ;Ketersediaan akses informasi (internet) yang cepat dan handal untuk menjalankan tugas pokok dan fungsi.;4;Aktif;0
+0;EDLM;Q05;Responsiveness;Kesempatan dan dukungan untuk mengikuti studi lanjut/studi banding/kursus/pelatihan/seminar/magang/detasering dari Unsika baik di dalam maupun di luar negeri.;4;Aktif;0
+0;EDLM;Q06;Responsiveness;Penghargaan atas prestasi kerja yang dicapai.;4;Aktif;0
+0;EDLM;Q07;Responsiveness;Sistem kesejahteraan yang meliputi;;Aktif;0
+0;EDLM;Q08;Responsiveness;Pemerataan distribusi beban kerja dosen;4;Aktif;0
+0;EDLM;Q09;Assurance;Sistem pembinaan dosen dalam bentuk pemberian penghargaan dan sanksi/hukuman.;4;Aktif;0
+0;EDLM;Q10;Assurance;Tindaklanjut kritik, saran, dan keluhan yang disampaikan.;4;Aktif;0
+0;EDLM;Q11;Assurance;Sistem dan layanan e-learning yang memadai.;4;Aktif;0
+0;EDLM;Q12;Assurance;Mendapatkan kesempatan dalam tugas tambahan berdasarkan kemampuan dan prinsip pemerataan.;4;Aktif;0
+0;EDLM;Q13;Empathy;Informasi dan penyelenggaraan mengenai layanan kenaikan jabatan fungsional;4;Aktif;0
+0;EDLM;Q14;Empathy;Dukungan pelaksanaan dan pendanaan untuk penelitian dan pengabdian masyarakat;4;Aktif;0
+0;EDLM;Q15;Empathy;Pimpinan konsisten dan menjalankan komitmen dalam menegakkan aturan/keputusan sebuah program kerja;4;Aktif;0
+0;EDLM;Q16;Empathy;Pimpinan bersedia membantu mengatasi persoalan yang dihadapi oleh dosen;4;Aktif;0
+0;EDLM;Q17;Suggest;Sistem dan proses seleksi, rekrutmen, orientasi, dan penempatan dosen di lingkungan Unsika.;4;Aktif;0
+0;EDLM;Q18;Tangible;Sosialisasi proses perencanaan, rekrutmen dan seleksi dosen di lingkungan Unsika.;4;Aktif;0
+0;EDLM;Q19;Tangible;Ketersediaan sarana komunikasi untuk menyampaikan kritik, saran, dan keluhan.;4;Aktif;0
+0;EDLM;Q20;Tangible;Realisasi atas tanggapan terhadap perbaikan fasilitas;4;Aktif;0
+0;EDLM;Q21;Suggest;Beri saran Bapak/Ibu untuk peningkatan mutu Layanan Manajemen di masa mendatang;Text;Aktif;0
+0;ETKLM;Q01;Reliability;Ketersediaan fasilitas, sarana dan prasarana serta layanan dalam menunjang tugas pokok/fungsi, administrasi dan kebutuhan informasi secara online dan offline dengan akurat dan memuaskan.;4;Aktif;0
+0;ETKLM;Q02;Reliability;Ketersediaan akses informasi (internet) yang cepat dan handal untuk menjalankan tugas pokok dan fungsi.;4;Aktif;0
+0;ETKLM;Q03;Reliability;Ketersediaan pedoman kerja tenaga kependidikan.;4;Aktif;0
+0;ETKLM;Q04;Responsiveness;Kesempatan dan dukungan untuk mengikuti pelatihan peningkatan kompetensi sesuai dengan tupoksi dan bidang penugasan.;4;Aktif;0
+0;ETKLM;Q05;Responsiveness;Penghargaan atas prestasi kerja yang dicapai.;4;Aktif;0
+0;ETKLM;Q06;Responsiveness;Sistem kesejahteraan yang meliputi;4;Aktif;0
+0;ETKLM;Q07;Assurance;Pelayanan pimpinan atau penanggung jawab yang berwenang dalam menunjang keterlaksanaan tugas pokok dan fungsi.;4;Aktif;0
+0;ETKLM;Q08;Assurance;Sistem tunjangan kinerja yang sesuai dengan capaian kinerja.;4;Aktif;0
+0;ETKLM;Q09;Assurance;Tindaklanjut atas kritik, saran, dan keluhan yang disampaikan.;4;Aktif;0
+0;ETKLM;Q10;Empathy;Pimpinan menyampaikan secara jelas tupoksi masing-masing SDM yang berada di bawahnya.;4;Aktif;0
+0;ETKLM;Q11;Empathy;Pimpinan bersedia membantu mengatasi persoalan yang dihadapi oleh tenaga kependidikan.;4;Aktif;0
+0;ETKLM;Q12;Empathy;Komunikasi pimpinan dengan tenaga kependidikan berjalan dengan baik.;4;Aktif;0
+0;ETKLM;Q13;Tangible;Sistem dan proses seleksi, rekrutmen, orientasi, dan penempatan tenaga kependidikan di lingkungan Unsika.;4;Aktif;0
+0;ETKLM;Q14;Tangible;Ketersediaan sarana komunikasi untuk menyampaikan kritik, saran, dan keluhan.;4;Aktif;0
+0;ETKLM;Q15;Tangible;Realisasi atas tanggapan terhadap perbaikan fasilitas.;4;Aktif;0
+0;ETKLM;Q16;Suggest;Beri saran Bapak/Ibu untuk peningkatan mutu Layanan Manajemen di masa mendatang;Text;Aktif;0
+0;EKPL;Q01;Integritas (etika dan moral);Etika lulusan di tempat kerja;4;Aktif;0
+0;EKPL;Q02;Integritas (etika dan moral);Moral dan perilaku individu;4;Aktif;0
+0;EKPL;Q03;Integritas (etika dan moral);Sifat jujur dan kemandirian;4;Aktif;0
+0;EKPL;Q04;Keahlian berdasarkan bidang ilmu (profesionalisme);Kontribusi keilmuan yang dimiliki lulusan dalam mencapai kepentingan kerja;4;Aktif;0
+0;EKPL;Q05;Keahlian berdasarkan bidang ilmu (profesionalisme);Relevansi pendidikan keilmuan luusan pada pekerjaan yang ditekuni;4;Aktif;0
+0;EKPL;Q06;Keahlian berdasarkan bidang ilmu (profesionalisme);Beradaptasi dengan pekerjaan yang berbeda dengan bidang ilmu;4;Aktif;0
+0;EKPL;Q07;Bahasa asing;Kemampuan bahasa asing lulusan;4;Aktif;0
+0;EKPL;Q08;Bahasa asing;Dampak penggunaan bahasa asing lulusan terhadap bidang pekerjaan;4;Aktif;0
+0;EKPL;Q09;Penggunaan teknologi informasi;Kemampuan lulusan mengoperasikan system teknologi dan informatika;4;Aktif;0
+0;EKPL;Q10;Komunikasi;Kemampuan lulusan berkomunikasi dengan rekan kerja;4;Aktif;0
+0;EKPL;Q11;Komunikasi;Kemampuan lulusan berkomunikasi dengan pihak internal dan eksternal;4;Aktif;0
+0;EKPL;Q12;Kerjasama dalam tim dan Kepemimpinan;Kemampuan lulusan bekerja sama dalam tim dan kepemimpinan;4;Aktif;0
+0;EKPL;Q13;Pengembangan diri;Kemauan lulusan dalam upaya pengembangan diri yang ditunjang oleh tempat kerja atau mandiri;4;Aktif;0
+0;EKPL;Q14;Keluasan wawasan antar disiplin ilmu;Motivasi dan keseriusan lulusan mengikuti pelatihan yang berkaitan bidang kerja atau bidang lainnya;4;Aktif;0
+0;SKLU;Q01;Kinerja Fakultas dan Program Studi;Ketua Jurusan dan atau Program Studi dapat menyelesaikan persoalan akademik/non-akademik yang pernah anda temui secara cepat, tepat dan komunikatif.;5;Aktif;0
+0;SKLU;Q02;Kinerja Fakultas dan Program Studi;Tenaga kependidikan bersedia memberikan pelayanan administrasi dengan ramah. ;5;Aktif;0
+0;SKLU;Q03;Kinerja Fakultas dan Program Studi;Ketersediaan fasilitas perkuliahan yang memadai.;5;Aktif;0
+0;SKLU;Q04;Kinerja Fakultas dan Program Studi;Ketersediaan fasilitas laboratorium.yang mendukung perkuliahan dan penelitian.;5;Aktif;0
+0;SKLU;Q05;Kinerja Fakultas dan Program Studi;Informasi akademik/non-akademik mudah didapatkan.;5;Aktif;0
+0;SKLU;Q06;Pelaksanaan Pembimbingan Akademik (PA);Membantu memilih mata kuliah sesuai dengan minat, bakat dan kemampuan anda.;5;Aktif;0
+0;SKLU;Q07;Pelaksanaan Pembimbingan Akademik (PA);Membantu anda dalam mengeksplorasi potensi karier sesuai dengan minat.;5;Aktif;0
+0;SKLU;Q08;Pelaksanaan Pembimbingan Akademik (PA);Mendorong dan mengarahkan minat anda dalam bidang akademik / disiplin ilmu.;5;Aktif;0
+0;SKLU;Q09;Pelaksanaan Pembimbingan Akademik (PA);Mampu untuk membimbing, mengarahkan dan memotivasi anda;5;Aktif;0
+0;SKLU;Q10;Pelaksanaan Pembimbingan Akademik (PA);Mendorong anda terlibat / berpartisipasi dalam aktivitas ekstrakurikuler;5;Aktif;0
+0;SKLU;Q11;Dosen Pembimbing Utama / Pendamping Skripsi/Tugas Akhir;Mendorong dan mengarahkan topik dan masalah skripsi/tugas akhir anda.;5;Aktif;0
+0;SKLU;Q12;Dosen Pembimbing Utama / Pendamping Skripsi/Tugas Akhir;Mampu untuk membimbing, mengarahkan dan memotivasi anda untuk menyelesaikan skripsi/tugas akhir anda dengan cepat.;5;Aktif;0
+0;SKLU;Q13;Dosen Pembimbing Utama / Pendamping Skripsi/Tugas Akhir;Pembimbing mudah untuk diajak berdiskusi tentang skripsi/tugas akhir anda;5;Aktif;0
+0;SKLU;Q14;Dosen Pembimbing Utama / Pendamping Skripsi/Tugas Akhir;Pembimbing mudah untuk diajak berdiskusi tentang skripsi/tugas akhir anda.;5;Aktif;0
+0;SKLU;Q15;Dosen Pembimbing Utama / Pendamping Skripsi/Tugas Akhir;Kesan umum anda tentang pembimbing utama skripsi/tugas akhir anda.;5;Aktif;0
+0;SKLU;Q16;Suggest;Beri saran Anda untuk peningkatan mutu layanan di lingkungan Fakultas/Prodi di masa mendatang;Text;Aktif;0
+0;EPBM;1;1;1;text;Aktif;admin
+0;Test;Q01;K1;Rasa Makanan;4;Aktif;admin
+0;Test;Q02;K1;Lokasi Kuliner;4;Aktif;admin
+0;Test;Q03;Suggest;Saran Anda;Text;Aktif;admin

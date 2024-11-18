@@ -1,0 +1,13 @@
+id;id_menu;sub_menu;description;icon;link;sort;created_at;updated_at
+0;2;Manajemen User;Manajemen User;fa fa-gift;user;1;11/10/2020 00:46;11/10/2020 00:46
+0;2;Log Activity;Log Activity;fa fa-bookmark;log;5;11/10/2020 00:46;11/10/2020 00:46
+0;2;Manajemen Data MONEV;Manajemen Data MONEV;fa fa-users;quiz_header;6;11/10/2020 00:46;11/10/2020 00:46
+0;6;Review Data MONEV;Review Data MONEV;fa fa-list-ul;review_monev;1;11/10/2020 00:46;11/10/2020 00:46
+0;6;Entry Data MONEV;Entry Data MONEV;fa fa-user;pilih_survey;2;11/10/2020 00:46;11/10/2020 00:46
+0;8;Laporan Saran;Laporan Saran;fa fa-file;report_suggest;6;11/10/2020 00:46;11/10/2020 00:46
+0;2;Manajemen Program Studi;Manajemen Program Studi;fa fa-users;prodi;7;11/10/2020 00:46;11/10/2020 00:46
+0;2;Hak Akses;Hak Akses;fa fa-users;user_priviledge;7;11/10/2020 00:46;11/10/2020 00:46
+0;2;Manajemen Parameter;Manajemen Parameter;fa fa-users;parameter_header;7;11/10/2020 00:46;11/10/2020 00:46
+0;8;Laporan Survey;Laporan Survey;fa fa-file;report;6;11/10/2020 00:46;11/10/2020 00:46
+0;2;Manajemen Menu;Manajemen Menu;fa fa-users;m_menu;7;11/10/2020 00:46;11/10/2020 00:46
+0;1;Dashboard;Dashboard;fa fa-bookmark;dashboard;0;16/09/2024 03:55;0000-00-00 00:00:00

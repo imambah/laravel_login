@@ -1,0 +1,5 @@
+id;menu_name;description;icon;tab;link;sort;created_at;updated_at
+0;Dashboard;dashboard;fa fa-home;5;dashboard;1;11/10/2020 00:38;11/10/2020 00:38
+0;Administrator;Administrator;fa fa-hdd-o;1;Administrator;2;11/10/2020 00:39;11/10/2020 00:39
+0;Monitoring & Evaluation;Monitoring & Evaluation;fa fa-cogs;7;Monitoring & Evaluation;12;11/10/2020 00:41;11/10/2020 00:41
+0;Report;Report;fa fa-file;6;Report;7;11/10/2020 00:41;11/10/2020 00:41
